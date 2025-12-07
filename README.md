@@ -12,4 +12,5 @@ MAE: 1874.12
 RMSE: 3541.63
 
 Future Improvements
+
 I am currently working on improving the model's performance by experimenting with different machine learning algorithms (Gradient Boosting). These models will be evaluated based on their MAE and RMSE scores to determine whether they outperform the current Random Forest Regression approach.
